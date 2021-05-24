@@ -1,0 +1,8 @@
+#passwd
+# podman unshare cat uid map
+robertpoenaru:x:1000:1000:Robert Poenaru:/home/robertpoenaru:/usr/bin/zsh
+         0       1000          1
+         1      10000      65536
+# podman unshare cat gid map
+         0       1000          1
+         1      10000      65536
