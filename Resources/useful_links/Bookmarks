@@ -1,0 +1,194 @@
+{
+   "checksum": "a41341a0241022de98f3d94eb0ec1fe2",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13265898484000000",
+            "guid": "826ae94b-b80f-4d74-8068-48dd0f490e9f",
+            "id": "5",
+            "name": "DFT Webmail",
+            "type": "url",
+            "url": "https://www.theory.nipne.ro/mail/src/login.php"
+         }, {
+            "date_added": "13265898454000000",
+            "guid": "21f3eb91-a14a-45e8-bbf4-965f503d9f40",
+            "id": "6",
+            "name": "NIPNE Webmail",
+            "type": "url",
+            "url": "https://www.nipne.ro/webmail/src/login.php"
+         }, {
+            "date_added": "13266080501000000",
+            "guid": "83f12a60-7493-4c23-9130-d051598ae0f7",
+            "id": "7",
+            "name": "YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/"
+         }, {
+            "date_added": "13266075753000000",
+            "guid": "033f2482-27c6-49ae-b5b3-1842d99327a5",
+            "id": "8",
+            "name": "ProtonMail",
+            "type": "url",
+            "url": "https://beta.protonmail.com/u/0/inbox/0oV2t42SQEGspb95KXtizXYUw988JI7k0YSSCl0eM8tQehb_2_W3XI_pNMlvKxLoZ5xd-X6XSnEhTt1f3AF28g=="
+         }, {
+            "date_added": "13266075746000000",
+            "guid": "609be5a3-fff5-4c3d-b9e4-002c3d878bff",
+            "id": "9",
+            "name": "Tutanota",
+            "type": "url",
+            "url": "https://mail.tutanota.com/mail/MHVA2z2--c-2/MSq2l-W----2"
+         }, {
+            "date_added": "13266075964000000",
+            "guid": "85b2ea0f-f59a-48df-ab55-de6a07c7b508",
+            "id": "10",
+            "name": "GitHub",
+            "type": "url",
+            "url": "https://github.com/basavyr"
+         }, {
+            "date_added": "13251541965000000",
+            "guid": "0432308e-9058-4e9f-bec8-52c830c7ba09",
+            "id": "12",
+            "name": "Google Drive",
+            "type": "url",
+            "url": "https://drive.google.com/drive/my-drive"
+         }, {
+            "date_added": "13251551712000000",
+            "guid": "be9a1b83-9999-4930-bf03-5d8b25e6b8e2",
+            "id": "14",
+            "name": "Google Docs",
+            "type": "url",
+            "url": "https://docs.google.com/document/u/0/"
+         }, {
+            "date_added": "13266076250000000",
+            "guid": "cf38ddf2-5caf-4462-8b30-66909fc74c7d",
+            "id": "13",
+            "name": "OneDrive",
+            "type": "url",
+            "url": "https://onedrive.live.com/?id=root&cid=846F64F4B2C939BD"
+         }, {
+            "date_added": "13266395070058625",
+            "guid": "cd12e723-ad2f-464b-9a26-2b63351b9f8a",
+            "id": "26",
+            "name": "OneDrive - Business",
+            "type": "url",
+            "url": "https://drdunibucro-my.sharepoint.com/personal/robert_poenaru_drd_unibuc_ro/_layouts/15/onedrive.aspx"
+         }, {
+            "date_added": "13266413078783540",
+            "guid": "6ae666e0-e620-4eb5-baaa-d4b236c347ec",
+            "id": "28",
+            "name": "Office 365",
+            "type": "url",
+            "url": "https://www.office.com/?auth=2"
+         }, {
+            "date_added": "13266076239000000",
+            "guid": "d0cae418-2713-4f8d-970e-3b42a7ffd99a",
+            "id": "15",
+            "name": "Word Online",
+            "type": "url",
+            "url": "https://www.office.com/launch/word?ui=en-US&rs=US&auth=1"
+         }, {
+            "date_added": "13265899998000000",
+            "guid": "f1a733d1-09b3-4f7e-b9a2-0d4fc2bfcca7",
+            "id": "16",
+            "name": "RoamResearch",
+            "type": "url",
+            "url": "https://roamresearch.com/#/app/basavyr/search"
+         }, {
+            "date_added": "13266076115000000",
+            "guid": "e816224d-9df5-4485-bdae-4346e6c12b32",
+            "id": "17",
+            "name": "Discord",
+            "type": "url",
+            "url": "https://discord.com/channels/171216419202138112/477107453742415873"
+         }, {
+            "date_added": "13252586914000000",
+            "guid": "e7c32746-5b4a-4dd4-99a8-3008e4c55e0e",
+            "id": "18",
+            "name": "reddit",
+            "type": "url",
+            "url": "https://www.reddit.com/"
+         }, {
+            "date_added": "13252572057000000",
+            "guid": "81e85cd6-6478-4f29-9ac7-568a1077e7b6",
+            "id": "19",
+            "name": "ResearchGate",
+            "type": "url",
+            "url": "https://www.researchgate.net/"
+         }, {
+            "date_added": "13265982313000000",
+            "guid": "927cd618-7e18-4236-937d-9343e1d57f5d",
+            "id": "20",
+            "name": "Nuclear Theory authors/titles recent submissions",
+            "type": "url",
+            "url": "https://arxiv.org/list/nucl-th/pastweek?skip=0&show=50"
+         }, {
+            "date_added": "13265828433000000",
+            "guid": "7fd2c1e1-0300-4b25-9004-3f64bfe3a1a0",
+            "id": "21",
+            "name": "Forum",
+            "type": "url",
+            "url": "http://forum.manjaro.org/"
+         }, {
+            "date_added": "13251550614000000",
+            "guid": "271da1ec-8e48-4036-96e5-def169f2b7ae",
+            "id": "22",
+            "name": "Your Repositories",
+            "type": "url",
+            "url": "https://github.com/basavyr?tab=repositories"
+         }, {
+            "date_added": "13266077460000000",
+            "guid": "6c3ea32c-c5c7-405f-9ac9-3219df6ba3b0",
+            "id": "23",
+            "name": "🧑‍💻 WORK @DFCTI 💻",
+            "type": "url",
+            "url": "https://github.com/users/basavyr/projects/4"
+         }, {
+            "date_added": "13266078068000000",
+            "guid": "7c239239-071d-4ce6-a898-49cec8395cbd",
+            "id": "24",
+            "name": "Confluence",
+            "type": "url",
+            "url": "https://robert-p.atlassian.net/wiki/home"
+         }, {
+            "date_added": "13266395366403126",
+            "guid": "ab44f5b2-b964-4813-8f8b-b463f7762dbf",
+            "id": "27",
+            "name": "OneNote",
+            "type": "url",
+            "url": "https://drdunibucro-my.sharepoint.com/personal/robert_poenaru_drd_unibuc_ro/_layouts/15/Doc.aspx?sourcedoc={1b22e231-d845-4851-87bc-588b8ca97836}&action=edit&wd=target%28Quick%20Notes.one%7Cfd474d0e-85ac-4e1a-af59-c70395425857%2FTest%20page%7Cc9b6154e-bcfc-4819-a974-0caa0fd938fe%2F%29"
+         }, {
+            "date_added": "13266506488339383",
+            "guid": "78c9b643-024e-4ad1-8335-11b0fa6c8512",
+            "id": "30",
+            "name": "Mem",
+            "type": "url",
+            "url": "https://mem.ai/timeline"
+         } ],
+         "date_added": "13266153862323418",
+         "date_modified": "13266506488339383",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13266153862323419",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13266153862323421",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
